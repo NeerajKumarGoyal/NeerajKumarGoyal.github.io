@@ -38,4 +38,4 @@ I'm continuously learning and exploring new technologies, particularly in the fi
 
 If you'd like to get in touch, collaborate on a project, or have any questions, feel free to reach out to me via email or through my [LinkedIn profile](https://www.linkedin.com/in/neerajkumargoyal16). I'm always open to new opportunities and connections.
 
-Thank you for visiting my GitHub profile! Happy coding! 🚀
+Thank you for visiting ! Happy coding! 🚀
