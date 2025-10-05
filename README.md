@@ -1,5 +1,5 @@
 
-Hello I'm ## Neeraj Kumar Goyal👋
+Hello I'm **Neeraj Kumar Goyal**👋
 
 I'm a Graduate with a Bachelor of Technology (B.Tech) degree in Computer Science Engineering . I have experience and knowledge in programming languages such as C++ and Python. In addition to my academic background, I've also gained practical experience through projects that demonstrate my skills and passion for technology. I'm particularly interested in software engineering and am actively seeking software engineer jobs.
 
@@ -7,7 +7,7 @@ I'm a Graduate with a Bachelor of Technology (B.Tech) degree in Computer Science
 
 - **Education:** Bachelor of Technology in Computer Science Engineering in 2023
 - **Email:** neerajkumargoyal216@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/neerajkumargoyal16
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/neerajkumargoyal16)
 - **Currently Learning about:** Web Development and Salesforce 
 
 ## Skills
